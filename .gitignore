@@ -1,0 +1,4 @@
+#ignore certain types of files
+
+#Don't ignore the Readme file
+!README.md
